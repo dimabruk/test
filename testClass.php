@@ -17,4 +17,8 @@ class testClass {
         echo 'This is constructor';
     }
 
+    public function firstFunc($param) {
+        echo 'This is firstFunc';
+    }
+
 }
