@@ -24,5 +24,8 @@ class testClass {
     public function secondFunc($param) {
         echo 'This is secondFunc';
     }
+    public function thirdFunc($param) {
+        echo 'This is thirdFunc';
+    }
 
 }
